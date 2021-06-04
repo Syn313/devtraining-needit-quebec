@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Occasions" max_length="40" name="x_58872_needit_occasions" sizeclass="0" type="collection">
+        <element display="true" label="Occasion" max_length="40" name="u_occasion" type="string"/>
+        <element label="Occasion Day" max_length="40" name="u_occasion_day" type="string"/>
+        <element label="Occasion Month" max_length="40" name="u_occasion_month" type="string"/>
+    </element>
+</database>
